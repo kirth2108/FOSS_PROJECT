@@ -1,0 +1,178 @@
+townhall - gandipuram : 4.9 , 5.8 ,5.2
+townhall - rspuram    : 3.1 , 2.6 ,2.7
+townhall - SBC        : 4.7 , 4.8
+townhall - ganapathy  : 8.4 , 8.7 , 9.1
+gandipuram - rspuram  : 3.2 , 3.5 , 3.9
+gandipuram - SBC      : 4.1 , 4.8
+gandipuram - ganapathy: 4.0 , 4.9
+rspuram - SBC         : 2.8 , 3.3 , 3.5
+rspuram - ganapathy   : 7.1 , 8.1 , 8.1       
+SBC - ganapathy       : 7.6 , 7.6 , 8.5 
+
+
+saravanampatty-kavundampalayam :8.6,10.4,10.4
+saravanampatty-peelamedu :8,10.8
+saravanampatty-vadavalli :15.1,16.8,17.6
+saravanampatty-singanallur : 11.1,14.9,11.9
+saravanampatty-chinniyampalayam :14.1,13.6,13.2
+saravanampatty-kovaipudur :19.8,23.9
+saravanampatty-thondamuthur :24.8,23,26.9
+
+kavundampalayam-peelamedu :13.3,15.1,14.8
+kavundampalayam-vadavalli :8,11.8,11.5
+kavundampalayam-singanallur: 15.1,15.7,17.8
+kavundampalayam-chinniyampalayam :19.4,24.1,19.7
+kavundampalayam-kovaipudur :16.3,18.2,17.4
+kavundampalayam-thondamuthur :15.9,19.3,19.8
+
+peelamedu-vadavalli :16.8,16.9,20.6
+peelamedu-singanallur :4.7
+peelamedu-chinniyampalyam :6.7
+peelamedu-kovaipudur :18.3,19.1,20.1
+peelamedu-thondamuthur :23.7,26.8,24.8
+
+vadavalli-singanallur :16.8,18.8,17.8
+vadavalli-chinniyampalayam :22.9,27.5,25.1
+vadavalli-kovaipudur :14.8,13.6,14.2
+vadavalli-thondamuthur :8
+
+singanallur-chinniyampalyam :11.1,10.3,9.3
+singanallur-kovaipudur :16.3,17.2,18.6
+singanallur-thondamuthur :24.9,24.5,28.3
+
+chinniyampalayam-kovaipudur :32.6,27,24.2
+chinniyampalayam-thondamuthur :29.6,32.7,35.5
+
+kovaipudur-thondamuthur :13.9,16.3,17.3
+
+thudiyalur-selvapuram :13.6,14.4,14.7
+thudiyalur-ettimadai :29,32.9
+thudiyalur-podanur :18.6,21.8,22.3
+thudiyalur-neelambur :24.3,23.8,24.2
+
+selvapuram-ettimadai :20.3,25.4
+selvapuram-podanur :11.1,16.4,16.3
+selvapuram-neelambur :22.7,23.9,33.6
+
+ettimadai-podanur :18.3,23.8,25.3
+ettimadai-neelambur :33.4
+
+podanur-neelambur :20,23.4
+
+townhall-saravanampatti :12.9,13.3,14.2
+townhall-kavundampalayam :6.4,8.1,9.4
+townhall-peelamedu :10.7,11.1
+townhall-vadavalli :8.2,9.2,9.2
+townhall-singanallur :8.8,10.1
+townhall-chinniyampalayam :16.8,19.4,30.3
+townhall-kovaipudur :7.8,9.1,10.3
+townhall-thondamuthur :15.2,15.1,16.2
+townhall-thudiyalur :13.6,16.6,15.9
+townhall-selvapuram :2.8,3.5
+townhall-ettimadai :19.2,23.1
+townhall-podanur :8.8,14,12.8
+townhall-neelambur :20.3,18.7,31.2
+
+gandipuram-saravanampatti :8.1,9.8,10.2
+gandipuram-kavundampalayam :4.9,5.3,5.1
+gandipuram-peelamedu :8.4,10.1,11.1
+gandipuram-vadavalli :10,11.2,11
+gandipuram-singanallur :10.2,11.2,12.4
+gandipuram-chinniyampalayam :14.5,19,20.9
+gandipuram-kovaipudur :13.9,13.2,12.9
+gandipuram-thondamuthur :17.9,17.1,19
+gandipuram-thudiyalur :12.1,14.3,14.8
+gandipuram-selvapuram :7.6,7.4,7.9
+gandipuram-ettimadai :23.9,30.3
+gandipuram-podanur :14.2,14.5,13.2
+gandipuram-neelambur :16.4,20.9,21.8
+
+rspuram-saravanampatti :11.3,12.6,13
+rspuram-kavundampalayam :4.9
+rspuram-peelamedu :10.5,9.7,11.7
+rspuram-vadavalli :6.3,8,8
+rspuram-singanallur :10.5,11.8,13.4
+rspuram-chinniyampalayam :16.6,21.1
+rspuram-kovaipudur :10,9.8,9.8
+rspuram-thondamuthur :13.9,14.3,17.3
+rspuram-thudiyalur :12.1,14.7,14.9
+rspuram-selvapuram :4.4,4.4,4.3
+rspuram-ettimadai :21.7,25.6
+rspuram-podanur :11.3,14.5,16.5
+rspuram-neelambur :18.4,22
+
+sbc-saravanampatti :11.7,15.2,13.9
+sbc-kavundampalayam :3.9,4.2
+sbc-peelamedu :13.8,12.5,16
+sbc-vadavalli :6.8,6.8,7.2
+sbc-singanallur :12.5,14.8
+sbc-chinniyampalayam :23.1,18.5,24.6
+sbc-kovaipudur :11.6,13.7,13.4
+sbc-thondamuthur :15.3,14.8,14.8
+sbc-thudiyalur :11.1,13.4,12.5
+sbc-selvapuram :6.3,6,7.6
+sbc-ettimadai :26.9,23
+sbc-podanur :13.3,16.5,14.5 
+sbc-neelambur :24,20.4,26.5
+
+ganapathy-saravanampatti :4.8,6.1
+ganapathy-kavundampalayam :8.2,10.1,11.4
+ganapathy-peelamedu :4
+ganapathy-vadavalli :14.7,17.9,18.5
+ganapathy-singanallur :7.9,7.1,10.2
+ganapathy-chinniyampalayam :9.6
+ganapathy-kovaipudur :19.9,24.1
+ganapathy-thondamuthur :6.4,6.4
+ganapathy-thudiyalur :15.4,15.6,16.8
+ganapathy-selvapuram :16,14.3,14.3
+ganapathy-ettimadai :31,40.5,29
+ganapathy-podanur :27.5,17.4,18
+ganapathy-neelambur :11.5,15.3
+
+saravanampatti-thudiyalur :14.5,12.1,15.9
+saravanampatti-selvapuram :15.9,18.2,20
+saravanampatti-ettimadai :32.9,45,35
+saravanampatti-podanur :32,19.6,21.4
+saravanampatti-neelambur :15.9
+
+kavundampalayam-thudiyalur :7.5
+kavundampalayam-selvapuram :11.8,11,10.2
+kavundampalayam-ettimadai :25.7,29.5
+kavundampalayam-podanur :15.9,19.1,19.5
+kavundampalayam-neelambur :25.9,21.6,23.1
+
+peelamedu-thudiyalur :19.8,19,22.6
+peelamedu-selvapuram :14.4
+peelamedu-ettimadai :37.6,30.6,27.3
+peelamedu-podanur :13.2,20.6,24.6
+peelamedu-neelambur :8.6
+
+vadavalli-thudiyalur :14.1,12.6,12.3
+vadavalli-selvapuram :8.6,8.6,12.8
+vadavalli-ettimadai :27.3,32.1,28.3
+vadavalli-podanur :18.5,20.8,17.6
+vadavalli-neelambur :24.8,27.9,28.4
+
+singanallur-thudiyalur :21.2,21.7,21.7
+singanallur-selvapuram :16.9,12.4,13.5
+singanallur-ettimadai :23.9,26.7,25.4
+singanallur-podanur :16.4,8.5,10.9
+singanallur-neelambur :15.6,12,12.2
+
+chinniyampalayam-thudiyalur :24.9,27.7,31.8
+chinniyampalayam-selvapuram :20.3,23.1,32.7
+chinniyampalayam-ettimadai :40.6,32.1,33.3
+chinniyampalayam-podanur :18.8,19.1,17.5
+chinniyampalayam-neelambur :3.7,4.6
+
+kovaipudur-thudiyalur :21.2,22.6,23.5
+kovaipudur-selvapuram :7.1,8.5
+kovaipudur-ettimadai :13.6
+kovaipudur-podanur :11.2,11.9,13
+kovaipudur-neelambur :33.5,32.9,26.8
+
+thondamuthur-thudiyalur :19.4,22
+thondamuthur-selvapuram :13.5,15.6,14.5
+thondamuthur-ettimadai :32.9,26.4
+thondamuthur-podanur :24.7,21.7
+thondamuthur-neelambur :32.8,36.6
