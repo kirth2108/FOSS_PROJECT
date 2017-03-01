@@ -1,2 +1,5 @@
 # foss
-foss project
+Facility location deals with the optimal placement of a facility to reduce transportation costs. It is important for useful facilities such as schools, hospitals and police stations be placed in appropriate locations in the city for easy access. Thus, the proposed framework aims to produce dominating sets using the domination theory in a graph which serves as a purpose for facility location algorithms.
+To find suitable locations, junction points(Vertices) of the city are carefully identified. The points are then studied and connected(Edges) with distance between them using Google’s “My Maps” to form a graph. Using this resultant graph, an adjacency list is created which serves as an input for the dominating set algorithm. The algorithm then produces all possible dominating sets.
+This project looks towards identification of all plausible dominating sets of the city graph which will thereby help facility location algorithms determine appropriate locations for the right beneficial facility.
+
