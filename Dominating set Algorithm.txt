@@ -1,0 +1,40 @@
+
+Input:Arraylist listofsets and linkedhashset solutionset
+Output:Arraylist of Dominating sets
+class Dominating(object):
+1.           class Filter(object): //interface
+                  def matches(self, t):
+                  //calls boolean matches
+def combin(filter, listOfSets):
+//possibleSolutions is an ArrayList
+2. size = listOfSets.size()
+combinations = 1 << size
+l = 0
+while l < combinations:
+	combination = LinkedHashSet[T]()
+	j = 0
+	While j < size:      
+		If ((l >> j) & 1) != 0:
+			combination.add(listOfSets.get(j))
+			If filter.matches(combination):
+ 				possibleSolutions.add(combination)
+			j += 1
+		l += 1
+3. Sort all possible solutions in ascending order
+//possibleSol is an ArrayList
+4. s=possibleSolutions.get(0)
+	For all possibleSolutions from i=0
+		set=possibleSolutions.get(i)
+		If set.size()==s.size()
+			possibleSol.add(set)
+5.Return possibleSol //Close def combin
+Main class		
+6.Filter[Set]()
+boolean matches() 
+while :Untill all integers //union is a Linkedhashset
+union.addAll(ints)
+return union.equals(solutionSet)
+7.Calling Solution = Dominating.combin(filter, listOfSets)
+
+	
+ 
